@@ -28,6 +28,9 @@ This storyline is helpful capturing many KPI (Ket Point Informations), such as:
 - What is the gender breakdown of active participants?
 - etc.
 
+![image](https://user-images.githubusercontent.com/65407428/150650201-5e3c5840-e3f7-4334-9ae7-57af3515aa53.png)
+
+
  Try analysing it by yourself, and Have Fun!
 
 ## Feel free to colaborate if you want.
